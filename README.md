@@ -1,5 +1,5 @@
-# SeattleAirbnbAnalytics
-Seattle airbnb analytics using Tableau data visualization software
+# Seattle Airbnb Dataset Analytics
+Developed dashboards for analyzing the Seattle Airbnb Dataset using Tableau, leveraging data visualization to uncover trends and insights
 
 Dataset source: https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 
